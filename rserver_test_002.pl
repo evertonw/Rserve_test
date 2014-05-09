@@ -1,6 +1,9 @@
 use Statistics::RserveClient::Connection;
 
 
+
+#  rserver_test_002.pl data_freq.txt
+
 use strict;
 use warnings;
 
